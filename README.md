@@ -15,9 +15,14 @@
 
 ## About Me
 "I'm a theoretician who loves to work in practice."
-- Currently working on scalable data pipelines, quantitative metrics, and visualizations suitable for research publications. 
-- Learning to constrain LLM context and build private AI assistant tools using LangChain and local models.
-- Ask me about how infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
+
+As an applied scientist with two degrees in Mathematics (BSc., MSc.), I enjoy finding structured solutions to ambiguous problems, concrete outcomes that cut meaning through uncertainty, and fast-paced work that encourages my continual learning. 
+
+I believe that with the right perspective you can solve any problem, and in pursuit of that goal I leverage my expansive set of mathematical tools, expertise in scientific computing, and taste for modular and scalable software. 
+
+- Currently working on: scalable data pipelines, quantitative metrics, and visualizations suitable for research publications. 
+- Learning to: constrain LLM context and build private AI assistant tools using LangChain and local models.
+- Ask me about: how infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
 ---
 ## Featured Projects
 | Project | Description |
