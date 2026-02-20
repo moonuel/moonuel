@@ -14,17 +14,19 @@
 </p>
 
 ## About Me
-"I'm a theoretician who loves to work in practice."
+*"I'm a theoretician who loves to work in practice."*
 
-As an applied scientist with two degrees in Mathematics (BSc., MSc.), I enjoy finding structured solutions to ambiguous problems, concrete outcomes that cut meaning through uncertainty, and fast-paced work that encourages my continual learning. 
+As an applied scientist with two degrees in Mathematics (BSc., MSc.) and a background in Computer Science, I enjoy finding **structured solutions** to ambiguous problems, **concrete outcomes** that cut meaning through uncertainty, and **fast-paced work** that encourages my continual learning. 
 
-I believe that with the right perspective you can solve any problem, and in pursuit of my goals I leverage my expansive set of mathematical tools, expertise in scientific computing, and taste for modular and scalable software. 
+I believe that with the *right perspective* you can solve any problem. In pursuit of my goals I leverage my **mathematical expertise** to simplify complex problems, **aptitude for research** to learn best practices, and **skill in modular software** to build scalable solutions. 
+
+My style of software development uses a mix of **modern AI coding tools** to lay foundations and make targeted, verifiable additions to the codebase, and **traditional debugging tools** to stay close to the code and ensure that it works as intended.
 
 I also play three instruments (electric bass, guitar, and [Linnstrument](https://www.rogerlinndesign.com/linnstrument)), two of which I play pretty well! 
 
-- Currently working on: scalable data pipelines, quantitative metrics, and visualizations suitable for research publications. 
-- Learning to: constrain LLM context and build private AI assistant tools using LangChain and local models.
-- Ask me about: how infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
+- **Currently working on:** scalable data pipelines, quantitative metrics, and visualizations suitable for research publications. 
+- **Learning to:** constrain LLM context and build private AI assistant tools using LangChain and local models.
+- **Ask me about:** how infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
 ---
 ## Featured Projects
 | Project | Description |
@@ -36,6 +38,8 @@ I also play three instruments (electric bass, guitar, and [Linnstrument](https:/
 ## Tech Stack
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="pdb" src="https://img.shields.io/badge/pdb-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="debugpy" src="https://img.shields.io/badge/debugpy-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
