@@ -34,6 +34,7 @@ I also play three instruments (electric bass, guitar, and [Linnstrument](https:/
 | [Knee Fluid Analysis](https://github.com/moonuel/fluorescence-knee-video-analysis) | Biomedical video data analysis package used for current scientific research in synovial fluid dynamics and joint health treatment. |
 <!-- | [LaTeX Resume Customizer](https://github.com/moonuel/resume-customizer) | LangChain-powered resume customization tool for targeting job applications. | -->
 | [Toronto Beachwater Safety Analysis](https://github.com/M4nd0C4lrissian/water_safety/tree/feat/rainfall-lagged-regression) | Toronto beachwater safety prediction tool using regression and classification models. |
+
 ---
 ## Tech Stack
 <p>
