@@ -14,9 +14,9 @@
 </p>
 
 ## About Me
-*"I'm a theoretician who loves to work in practice."*
+*"The pinnacle of elegance is generality."*
 
-As an applied scientist with two degrees in Mathematics (BSc., MSc.) and a background in Computer Science, I enjoy finding **structured solutions** to ambiguous problems, **concrete outcomes** that cut meaning through uncertainty, and **fast-paced work** that encourages my continual learning. 
+As a research engineer with two degrees in Mathematics (BSc., MSc.) and a background in Computer Science, I enjoy finding **structured solutions** to ambiguous problems, **concrete outcomes** that cut meaning through uncertainty, and **fast-paced work** that encourages my continual learning. 
 
 I believe that with the *right perspective* you can solve any problem. In pursuit of my goals I leverage my **mathematical expertise** to simplify complex problems, **aptitude for research** to learn best practices, and **skill in modular software** to build scalable solutions. 
 
@@ -24,15 +24,15 @@ My style of software development uses a mix of **modern AI coding tools** to lay
 
 I also play three instruments (electric bass, guitar, and [Linnstrument](https://www.rogerlinndesign.com/linnstrument)), two of which I play pretty well! 
 
-- **Currently working on:** scalable data pipelines, quantitative metrics, and visualizations suitable for research publications. 
-- **Learning to:** constrain LLM context and build private AI assistant tools using LangChain and local models.
+- **Currently working on:** scalable data pipelines, quantitative metrics, and visualizations on noisy biomedical data suitable for research publications. 
+- **Learning to:** deploy ML models using Docker and FastAPI, validate changes in a growing codebase using automated testing packages, and compare performance of parametric and non-parametric learning models on noisy data. 
 - **Ask me about:** how infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
 ---
 ## Featured Projects
 | Project | Description |
 |---------|-------------|
 | [Knee Fluid Analysis](https://github.com/moonuel/fluorescence-knee-video-analysis) | Biomedical video data analysis package used for current scientific research in synovial fluid dynamics and joint health treatment. |
-| [LaTeX Resume Customizer](https://github.com/moonuel/resume-customizer) | LangChain-powered resume customization tool for targeting job applications. |
+<!-- | [LaTeX Resume Customizer](https://github.com/moonuel/resume-customizer) | LangChain-powered resume customization tool for targeting job applications. | -->
 | [Toronto Beachwater Safety Analysis](https://github.com/M4nd0C4lrissian/water_safety/tree/feat/rainfall-lagged-regression) | Toronto beachwater safety prediction tool using regression and classification models. |
 ---
 ## Tech Stack
