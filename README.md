@@ -39,7 +39,7 @@ I also play three instruments (electric bass, guitar, and [Linnstrument](https:/
 | Project | Description |
 |---------|-------------|
 | [Joint Fluid Video Analysis](https://github.com/moonuel/fluorescence-knee-video-analysis) | Computational framework contributing to joint fluid research. Implementation details confidential until publication. |
-| [Semantic Career Map](https://github.com/moonuel/semantic-career-map) | In-progress  |
+| [Semantic Career Map](https://github.com/moonuel/semantic-career-map) | In-progress career landscape analysis tool using LLMs, embedding models, unsupervised learning, and a monitored AWS S3/EC2 pipeline. |
 <!-- | [Toronto Beachwater Safety Analysis](https://github.com/M4nd0C4lrissian/water_safety/tree/feat/rainfall-lagged-regression) | Toronto beachwater safety prediction tool using regression and classification models. | -->
 <!-- | [LaTeX Resume Customizer](https://github.com/moonuel/resume-customizer) | LangChain-powered resume customization tool for targeting job applications. | -->
 ---
