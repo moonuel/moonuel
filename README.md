@@ -16,23 +16,31 @@
 ## About Me
 *"The pinnacle of elegance is generality."*
 
-As a research engineer with two degrees in Mathematics (BSc., MSc.) and a background in Computer Science, I enjoy finding **structured solutions** to ambiguous problems, **concrete outcomes** that cut meaning through uncertainty, and **fast-paced work** that encourages my continual learning. 
+With graduate-level training in applied and computational mathematics, software skills spanning object-oriented design and data engineering, and expertise communicating with senior subject matter experts and laypeople alike, I find structure in data-driven problems and solve them with the efficiency and generality required to scale.
 
-I believe that with the *right perspective* you can solve any problem. In pursuit of my goals I leverage my **mathematical expertise** to simplify complex problems, **aptitude for research** to learn best practices, and **skill in modular software** to build scalable solutions. 
-
-My style of software development uses a mix of **modern AI coding tools** to lay foundations and make targeted, verifiable additions to the codebase, and **traditional debugging tools** to stay close to the code and ensure that it works as intended.
+My style of software development uses a mix of **modern AI coding tools** to draft prototypes and solidify targeted, verifiable additions to the codebase, and **traditional debugging tools** to stay close to the code and ensure that it works as intended.
 
 I also play three instruments (electric bass, guitar, and [Linnstrument](https://www.rogerlinndesign.com/linnstrument)), two of which I play pretty well! 
 
-- **Currently working on:** scalable data pipelines, quantitative metrics, and visualizations on noisy biomedical data suitable for research publications. 
-- **Learning to:** deploy ML models using Docker and FastAPI, validate changes in a growing codebase using automated testing packages, and compare performance of parametric and non-parametric learning models on noisy data. 
-- **Ask me about:** how infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
+**Highlights:**
+- Developed a semi-automated video analysis framework for biomedical researchers, expanding the project scope from two datasets to the entire 300+ GB corpus, supporting several in-progress publications and an international research collaboration.
+- Led TMU's AI and ML student group for two years, organizing and hosting the first three AI/ML Alumni Career Panels, establishing technical project infrastructure, and mentoring members from associates to VPs.
+- Delivered expository works to TMU graduate students and faculty, spanning applied complexity theory with linear algebra and combinatorial optimization, applied neural networks for sparse learning problems, and neural network approximation theory.
+
+**Currently working on:**
+- Analysis of the AI/ML career landscape using LLMs, embedding models, unsupervised learning, and a monitored AWS S3/EC2 pipeline.
+- Understanding the mathematical foundations of transformer networks and general ML models, through the lens of statistical learning theory and functional analysis.
+- Personal CV/portfolio website for documenting my work in more detail, alongside reflections on the various things I'm working on.
+
+**Ask me about:** 
+- How infinite-dimensional linear algebra, mathematical analysis, and statistical machine learning converge in the theory of deep learning to justify the success of neural networks and large language models :)
 ---
 ## Featured Projects
 | Project | Description |
 |---------|-------------|
-| [Knee Fluid Analysis](https://github.com/moonuel/fluorescence-knee-video-analysis) | Biomedical video data analysis package used for current scientific research in synovial fluid dynamics and joint health treatment. |
-| [Toronto Beachwater Safety Analysis](https://github.com/M4nd0C4lrissian/water_safety/tree/feat/rainfall-lagged-regression) | Toronto beachwater safety prediction tool using regression and classification models. |
+| [Joint Fluid Video Analysis](https://github.com/moonuel/fluorescence-knee-video-analysis) | Computational framework contributing to joint fluid research. Implementation details confidential until publication. |
+| [Semantic Career Map](https://github.com/moonuel/semantic-career-map) | In-progress  |
+<!-- | [Toronto Beachwater Safety Analysis](https://github.com/M4nd0C4lrissian/water_safety/tree/feat/rainfall-lagged-regression) | Toronto beachwater safety prediction tool using regression and classification models. | -->
 <!-- | [LaTeX Resume Customizer](https://github.com/moonuel/resume-customizer) | LangChain-powered resume customization tool for targeting job applications. | -->
 ---
 ## Tech Stack
