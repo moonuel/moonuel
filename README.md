@@ -18,7 +18,7 @@
 
 With graduate-level training in applied and computational mathematics, software skills spanning object-oriented design and data engineering, and expertise communicating with senior subject matter experts and laypeople alike, I find structure in data-driven problems and solve them with the efficiency and generality required to scale.
 
-My style of software development uses a mix of **modern AI coding tools** to draft prototypes and solidify targeted, verifiable additions to the codebase, and **traditional debugging tools** to stay close to the code and ensure that it works as intended.
+My style of software development uses a mix of **modern AI coding tools** to iterate on ideas, draft prototypes, and solidify verifiable additions to the codebase, and **traditional debugging tools** as needed to trace through the stack and ensure that it works as intended.
 
 I also play three instruments (electric bass, guitar, and [Linnstrument](https://www.rogerlinndesign.com/linnstrument)), two of which I play pretty well! 
 
