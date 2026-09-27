@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/moonuel">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1750&pause=75&multiline=true&width=500&height=80&lines=Oliver+Manuel;Research+Developer+%7C+Applied+Mathematician;Data+Science+%7C+Machine+Learning+%7C+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1750&pause=75&multiline=true&width=500&height=80&lines=Oliver+Manuel;Applied+%2F+Computational+Mathematician;Data+Science+%7C+Machine+Learning+%7C+AI" alt="Typing SVG" />
 </a>
 </p>
 
